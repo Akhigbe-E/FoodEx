@@ -1,0 +1,12 @@
+c:\users\dell\source\repos\FoodEx\FoodEx\bin\Debug\FoodEx.exe.config
+c:\users\dell\source\repos\FoodEx\FoodEx\bin\Debug\FoodEx.exe
+c:\users\dell\source\repos\FoodEx\FoodEx\bin\Debug\FoodEx.pdb
+c:\users\dell\source\repos\FoodEx\FoodEx\bin\Debug\bunifu_ui_v1.5.3.dll
+c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.csprojAssemblyReference.cache
+c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.Form1.resources
+c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.Properties.Resources.resources
+c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.csproj.GenerateResource.cache
+c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.csproj.CoreCompileInputs.cache
+c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.csproj.CopyComplete
+c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.exe
+c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.pdb

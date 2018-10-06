@@ -10,23 +10,16 @@ using System.Windows.Forms;
 
 namespace FoodEx
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void bunifuThinButton21_Click(object sender, EventArgs e)
         {
 
-        }
-
-        private void bunifuFlatButton2_Click(object sender, EventArgs e)
-        {
-            SplashScreen spl = new SplashScreen();
-            this.Hide();
-            spl.Show();
         }
     }
 }

@@ -10,3 +10,6 @@ c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.csproj.CoreCompileInpu
 c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.csproj.CopyComplete
 c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.exe
 c:\users\dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.pdb
+C:\Users\Dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.SplashScreen.resources
+C:\Users\Dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.Register.resources
+C:\Users\Dell\source\repos\FoodEx\FoodEx\obj\Debug\FoodEx.Login.resources
